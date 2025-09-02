@@ -1,0 +1,3 @@
+{"timestamp":"2025-09-02T18:12:38.003496","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-02T18:13:08.134090","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-02T18:13:38.229728","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py","logger":"airflow.models.dagbag.DagBag"}
