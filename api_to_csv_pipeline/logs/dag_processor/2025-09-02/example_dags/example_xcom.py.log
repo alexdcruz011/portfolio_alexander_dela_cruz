@@ -1,3 +1,0 @@
-{"timestamp":"2025-09-02T18:12:37.687775","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-09-02T18:13:07.854231","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-09-02T18:13:37.949865","level":"info","event":"Filling up the DagBag from /home/alexdcruz011/venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py","logger":"airflow.models.dagbag.DagBag"}
